@@ -22,7 +22,7 @@
   "devDependencies": {
     "c8": "^9.1.0",
     "eslint": "^8.56.0",
-    "mocha": "^10.1.0"
+    "mocha": "^10.8.2"
   },
   "scripts": {
     "build": "node lib/transform.js",
